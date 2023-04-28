@@ -4,9 +4,17 @@
   --vt-c-white-soft: #f8f8f8;
   --vt-c-white-mute: #f2f2f2;
 
-  --vt-c-black: #181818;
+  --vt-c-black: #1E2D2F;
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
+  
+  --vt-c-champagne: #FCE4D8;
+  --vt-c-champagne-light: rgba(255, 255, 255, 1);
+
+  --vt-c-powder: #B5F8FE;
+  --vt-c-forest: #426B69;
+  --vt-c-mustard: #FBD87F;
+
 
   --vt-c-indigo: #2c3e50;
 
